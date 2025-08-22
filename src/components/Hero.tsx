@@ -112,7 +112,7 @@ export default function Hero({ onGetStarted }: HeroProps) {
                   ⚡ January 2026 Intake Deadline
                 </h3>
                 <p className="text-sm text-orange-100 mb-4">
-                  Start your visa process NOW! Only <span className="font-bold text-orange-300">{timeLeft.days}</span> days left to begin applications
+                  Start your application NOW! Only <span className="font-bold text-orange-300">{timeLeft.days}</span> days left to begin applications
                 </p>
                 
                 <div className="grid grid-cols-4 gap-3 max-w-md mx-auto">

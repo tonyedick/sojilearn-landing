@@ -29,7 +29,8 @@ function App() {
           </div>
 
           {/* Testimonials */}
-          <div className="grid md:grid-cols-2 gap-8">
+          <section id="success-stories">
+            <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-gray-50 rounded-2xl p-6">
               <div className="flex items-center mb-4">
                 <div className="w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center text-white font-bold">
@@ -115,6 +116,7 @@ function App() {
               </p>
             </div>
           </div>
+          </section>
         </div>
       </div>
 
@@ -226,7 +228,7 @@ function App() {
               <ul className="space-y-2 text-gray-400">
                 <li><a href="https://www.sojilearn.com/about" className="hover:text-white transition-colors" rel="noopener noreferrer">About Us</a></li>
                 <li><a href="https://www.sojilearn.com" className="hover:text-white transition-colors" rel="noopener noreferrer">Services</a></li>
-                <li><a href="#" className="hover:text-white transition-colors">Success Stories</a></li>
+                <li><a href="/#success-stories" className="hover:text-white transition-colors">Success Stories</a></li>
                 <li><a href="mailto:sojilearn@gmail.com" className="hover:text-white transition-colors" rel="noopener noreferrer">Contact</a></li>
               </ul>
             </div>
