@@ -37,7 +37,7 @@ function App() {
                   L
                 </div>
                 <div className="ml-4">
-                  <h4 className="font-semibold text-gray-900">Leonard O.</h4>
+                  <h4 className="font-semibold text-gray-900">Leonard A.</h4>
                   <p className="text-sm text-gray-600">Preparing to travel for September 2025 intake</p>
                 </div>
               </div>
