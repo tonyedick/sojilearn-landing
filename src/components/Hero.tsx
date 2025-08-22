@@ -135,7 +135,7 @@ export default function Hero({ onGetStarted }: HeroProps) {
                 </div>
                 
                 <p className="text-xs text-orange-200 mt-3">
-                  💡 Visa processing takes 3 months - don't miss your chance!
+                  💡 POF and Visa processing takes the most time - don't miss your chance!
                 </p>
               </div>
             </div>
