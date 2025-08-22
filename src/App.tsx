@@ -79,12 +79,12 @@ function App() {
                   C
                 </div>
                 <div className="ml-4">
-                  <h4 className="font-semibold text-gray-900">Chinwekene I.</h4>
-                  <p className="text-sm text-gray-600">Now studying at Brock University, Canada via Student Loan</p>
+                  <h4 className="font-semibold text-gray-900">Ekpo O.</h4>
+                  <p className="text-sm text-gray-600">Preparing for study in January 2026.</p>
                 </div>
               </div>
               <p className="text-gray-700 italic">
-                "I needed an agency that could help me process admission, as well provide access to funding. Sojilearn came through for me, I was able to secure funding to cover tuition fee and living expenses."
+                "I needed an agency that could help me process admission, as well provide tailored guidance each step of the application process. Sojilearn came through for me."
               </p>
             </div>
             <div className="bg-gray-50 rounded-2xl p-6">
