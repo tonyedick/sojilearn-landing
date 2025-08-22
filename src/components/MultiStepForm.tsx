@@ -417,9 +417,11 @@ export default function MultiStepForm() {
                   }`}
                 >
                   <option value="">Select program level</option>
+                  <option value="alevels">A Levels</option>
                   <option value="foundation">Foundation Course</option>
                   <option value="undergraduate">Undergraduate (Bachelor's)</option>
                   <option value="postgraduate">Postgraduate (Master's)</option>
+                  <option value="mres">MRes (Master by Research)</option>
                   <option value="phd">PhD</option>
                   <option value="professional">Professional Course</option>
                 </select>
@@ -469,6 +471,8 @@ export default function MultiStepForm() {
                   <option value="">Select start date</option>
                   <option value="september_2025">September 2025</option>
                   <option value="january_2026">January 2026</option>
+                  <option value="march_2026">March 2026</option>
+                  <option value="may_2026">May 2026</option>
                   <option value="september_2026">September 2026</option>
                   <option value="flexible">Flexible</option>
                 </select>
